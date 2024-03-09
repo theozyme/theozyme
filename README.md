@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ozan Çakır</h1>
 <h3 align="center">A Data Enthusiast From Turkey</h3>
 
-- 🔭 I’m currently working on **Business Intelligence Analys**
+- 🔭 I’m currently working on **Full-Stack Developing**
 
-- 🌱 I’m currently learning **power BI , SQL , Statistic and tableu**
+- 🌱 I’m currently learning **React.js ,.NET, C#**
 
 - 📝 I regularly write articles on [https://www.kaggle.com/ozancakir](https://www.kaggle.com/ozancakir)
 
-- 💬 Ask me about **pandas matplotlib and seaborn libraries**
+- 💬 Ask me about **Front-End and Data Science**
 
 - 📫 How to reach me **oznckr.x@gmail.com**
 
